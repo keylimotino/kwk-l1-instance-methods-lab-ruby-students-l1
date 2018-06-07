@@ -15,7 +15,7 @@ class Dog
     @sit = sit
   end
 
-  def sit 
+  def sit
     @sit
     puts "The Dog is sitting"
   end
