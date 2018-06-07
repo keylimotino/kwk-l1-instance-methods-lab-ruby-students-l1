@@ -6,7 +6,7 @@ class Person
     puts "Hello World!"
   end
 
-    def walk(walk)
+    def walk
     puts "The Person is walking"
     end
 
